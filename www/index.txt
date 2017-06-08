@@ -1,0 +1,31 @@
+<!doctype HTML>
+<html>
+<head>
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+<title>CARC</title>
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div class="header">
+	         <img src="index2.png">
+		<h1> <Strong> Welcome to the Crossroads Amateur Radio Club Website</strong> </h1>
+		<h2> Serving Madison County and surounding areas since 2012.</h2>
+	</div>
+	<div class="navbar">
+	   <ul>
+ 		 <li><a href="index.html">Home</a></li>
+ 		 <li><a href="repeaters.html">Repeaters and Nets</a></li>
+ 		 <li><a href="contact.html">Contact</a></li>
+ 		 <li><a href="about.html">About</a></li>
+		 <li><a href="/archived/index.html">Archived Sites</a></li>
+	   </ul>
+	</div>
+	<div class="textarea">
+	 <h2> Established in 2012, the Crossroads Amateur Radio Club has the intention to service the public and unite amateur radio operators. </h2>
+	<p>On this site you will find a resource of local information about the 
+club as well as other past( I'm a "History Buff") and present clubs as well. I hope to keep this site up to date as much as possible. --Jon, K5DVT. </p>
+	</div>
+		
+		
+</body>
+</html>
